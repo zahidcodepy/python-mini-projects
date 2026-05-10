@@ -16,5 +16,3 @@ ans6 = n**m
 print("the exponential of n and m is" , ans6) # Exponentiation operator (**) — raises n to the power of m
 ans7 = n//m
 print(" floor division is " , ans7) # Floor division operator (//) — returns quotient without decimal
-
-
